@@ -139,5 +139,6 @@ class TestPlaylist(unittest.TestCase):
 		expected = {'armin van buren' : 2, 'kasst':1}
 		self.assertEqual(expected,playlist.artists_dic())
 
+		
 if __name__ == '__main__':
 	unittest.main()
