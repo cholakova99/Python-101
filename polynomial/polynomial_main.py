@@ -21,5 +21,6 @@ def main():
 	result = calculate_expression(exp)
 	print(result)
 
+	
 if __name__ == '__main__':
 	main()
