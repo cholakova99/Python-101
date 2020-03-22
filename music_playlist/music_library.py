@@ -127,15 +127,3 @@ class Playlist:
 			my_new_object = json.load(f)
 			return my_new_object
 
-
-
-
-
-
-	
-
-
-	
-	
-
-
