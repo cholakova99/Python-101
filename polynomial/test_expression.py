@@ -48,5 +48,6 @@ class TestPolynomial(unittest.TestCase):
 		self.assertEqual(expression2.result,"3")
 		self.assertEqual(expression1.result,"1")
 
+		
 if __name__ == '__main__':
 	unittest.main()
