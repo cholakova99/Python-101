@@ -41,6 +41,7 @@ class Expression:
 		return result
 
 	
+	
 	def __init__(self,expression):
 		if type(expression) is not str:
 			raise AssertionError('Only strings are allowed')
