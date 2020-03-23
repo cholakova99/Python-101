@@ -28,4 +28,3 @@ class BatchBill:
 			return ValueError('There is not element with that index!')
 		element = self.list_of_bills[index]
 		return element
-
