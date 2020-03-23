@@ -39,5 +39,3 @@ class CashDesk:
 					else:
 						bills_dict[self.list_of_bills_in_desk[i].__getitem__(j).__str__()] = 1
 		return bills_dict
-
-
