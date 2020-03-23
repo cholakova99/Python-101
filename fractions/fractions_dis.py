@@ -89,10 +89,3 @@ class ListFraction:
 		else:
 			self.list_fractions = self.list_fractions[::-1]
 			return self.list_fractions
-
-
-
-		
-
-
-
