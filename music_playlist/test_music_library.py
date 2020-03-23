@@ -2,7 +2,6 @@ import unittest
 from mysic_library import Song, Playlist
 
 class TestSong(unittest.TestCase):
-	
 	def test_empty_string(self):
 		exc = None
 		try:
