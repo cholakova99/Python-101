@@ -73,9 +73,7 @@ class TestFraction(unittest.TestCase):
 		expected2 = [Fraction(22, 78), Fraction(15, 32), Fraction(5, 6), Fraction(7, 8), Fraction(9, 6), Fraction(22, 7)]
 		self.assertEqual(my_list.sort_fractions(),expected)
 		self.assertEqual(my_list_2.sort_fractions(),expected2)
-
-
-		
+	
 
 if __name__ == '__main__':
 	unittest.main()
