@@ -1,0 +1,3 @@
+ALTER TABLE Languages
+add COLUMN Rating
+DEFAULT 0;
