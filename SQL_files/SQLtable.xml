@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <id>1</id>
+       <language>Python</language>
+       <answer>Google</answer>
+       <answered>1</answered>
+       <guide>A folder named Python was created. Go there and fight with program.py!</guide>
+       <rating>100</rating>
+    </row>
+    <row>
+       <id>2</id>
+       <language>Go</language>
+       <answer>200 OK</answer>
+       <answered>0</answered>
+       <guide>A folder named Go was created. Go there and try to make Google Go run.</guide>
+       <rating>99</rating>
+    </row>
+    <row>
+       <id>3</id>
+       <language>Java</language>
+       <answer>object oriented programming</answer>
+       <answered>0</answered>
+       <guide>A folder named Java was created. Can you handle the class?</guide>
+       <rating>100</rating>
+    </row>
+    <row>
+       <id>4</id>
+       <language>Haskell</language>
+       <answer>Lambda</answer>
+       <answered>1</answered>
+       <guide>Something pure has landed. Go to Haskell folder and see it!</guide>
+       <rating>100</rating>
+    </row>
+    <row>
+       <id>5</id>
+       <language>C#</language>
+       <answer>NDI=</answer>
+       <answered>0</answered>
+       <guide>Do you see sharp? Go to the C# folder and check out.</guide>
+       <rating>99</rating>
+    </row>
+    <row>
+       <id>6</id>
+       <language>Ruby</language>
+       <answer>https://www.ruby-lang.org/bg/</answer>
+       <answered>0</answered>
+       <guide>Ruby, ruby, rubyyy, aaahaaaahaa! (music). Go to Ruby folder!</guide>
+       <rating>99</rating>
+    </row>
+    <row>
+       <id>7</id>
+       <language>C++</language>
+       <answer>header files</answer>
+       <answered>1</answered>
+       <guide>Here be dragons! It's C++ time. Go to the C++ folder.</guide>
+       <rating>100</rating>
+    </row>
+    <row>
+       <id>8</id>
+       <language>JavaScript</language>
+       <answer>Douglas Crockford</answer>
+       <answered>1</answered>
+       <guide>NodeJS time. Go to JavaScript folder and Node your way!</guide>
+       <rating>99</rating>
+    </row>
+</items>
