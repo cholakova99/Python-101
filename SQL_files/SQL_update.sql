@@ -1,7 +1,3 @@
-CREATE TABLE Languages (
-    id INTEGER PRIMARY KEY,
-    language VARCHAR,
-    answer VARCHAR,
-    answered bool,
-    guide text 
-)
+UPDATE Languages
+set answered = 1
+where language == "Python" or id == 8;
