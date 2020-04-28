@@ -1,0 +1,7 @@
+SELECT name
+from MOVIESTAR
+join STARSIN
+on STARSIN.starname = MOVIESTAR.NAME
+join MOVIE
+on STARSIN.MOVIETITLE = MOVIE.TITLE
+where MOVIE.studioname = "MGM" and MOVIE.YEAR = 1995;
