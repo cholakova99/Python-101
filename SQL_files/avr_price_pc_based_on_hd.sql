@@ -1,0 +1,1 @@
+select hd, avg(price) as "Average price" from pc group by hd

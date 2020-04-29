@@ -1,0 +1,1 @@
+select maker, avg(screen)  from product inner join laptop on product.model = laptop.model group by maker

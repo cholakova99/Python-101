@@ -1,0 +1,1 @@
+select speed, avg(price) as "Average price" from pc where speed > 500 group by speed

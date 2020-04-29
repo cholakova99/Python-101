@@ -1,0 +1,1 @@
+select avg(price) as "Average price" from pc inner join product where pc.model = product.model and product.maker = "A" 
